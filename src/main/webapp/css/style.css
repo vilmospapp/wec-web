@@ -1,0 +1,94 @@
+.styled-form {
+    border: solid 1px #aeaeae;
+    margin: 100px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgb(189 189 189 / 41%);
+    -webkit-box-shadow: 10px 10px 5px 0px rgb(189 189 189 / 41%);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(189,189,189,0.41);
+    font-family: Helvetica, sans-serif;
+    background-color: #dfdede;
+}
+.full {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.email {
+    margin-top: 30px;
+}
+.description {
+    font-size: 12px;
+}
+
+.error {
+    border-color: red !important;
+}
+
+.error-msg {
+    color: red;
+}
+
+div.footer {
+    border-top: solid 1px lightgray;
+    height: 50px;
+    background-color: #c6c7c9;
+    color: black;
+    padding-top: 12px;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 0px;
+    width: 100%;
+    margin-right: 0px;
+}
+div.footer a {
+    color: black;
+}
+div.footer a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+div.footer img {
+    height:28px;
+}
+.button-row {
+    text-align: center;
+    height: 50px;
+    margin-top: 20px;
+}
+input[type=submit] {
+
+}
+#verify {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: solid 1px gray;
+    box-shadow: 3px 5px 5px 0px rgb(79 79 79 / 65%);
+    -webkit-box-shadow: 3px 5px 5px 0px rgb(79 79 79 / 65%);
+    -moz-box-shadow: 3px 5px 5px 0px rgba(79,79,79,0.65);
+    background-color: #0795a09e;
+    font-weight: bold;
+}
+#urlField {
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: solid 1px #bebebe;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#emailAddress {
+    min-width: 400px;
+    border: solid 1px #bebebe !important;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+}

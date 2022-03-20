@@ -1,0 +1,10 @@
+# list of madvoc method action annotation
+madvocConfig.actionAnnotations=jodd.madvoc.meta.Action, jodd.joy.madvoc.meta.PostAction
+jodd.madvoc.interceptor.PreparableInterceptor.injectIdsFromRequestEnabled=true
+
+#defines path macro separators
+madvocConfig.pathMacroSeparators=(,:,)
+
+jodd.madvoc.interceptor.EchoInterceptor.enabled=false
+injectorsManager.requestScopeInjector.injectAttributes=true
+
