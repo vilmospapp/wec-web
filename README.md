@@ -1,4 +1,4 @@
-##Website Evidence Collector Web UI
+## Website Evidence Collector Web UI
 
 This application is a frontend to integrate with the Docker image of **Website Evidence Collector** ([https://github.com/EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector)) created by [European Data Protection Supervisor](https://edps.europa.eu/)
 
